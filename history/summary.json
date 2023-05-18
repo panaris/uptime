@@ -40,18 +40,20 @@
     "url": "https://tetteris.gr",
     "icon": "https://icons.duckduckgo.com/ip3/tetteris.gr.ico",
     "slug": "tetteris",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1719,
-    "timeDay": 1703,
-    "timeWeek": 1719,
-    "timeMonth": 1719,
-    "timeYear": 1719,
-    "dailyMinutesDown": {}
+    "time": 1649,
+    "timeDay": 1469,
+    "timeWeek": 1649,
+    "timeMonth": 1649,
+    "timeYear": 1649,
+    "dailyMinutesDown": {
+      "2023-05-18": 0
+    }
   },
   {
     "name": "taptap",
