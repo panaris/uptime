@@ -1,7 +1,5 @@
 # 📈 Live Status: <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Panagiotis Christoforakis](https://paniccsoftworks.com).
-
 [![Uptime CI](https://github.com/panaris/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/panaris/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/panaris/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/panaris/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/panaris/uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/panaris/uptime/actions?query=workflow%3A%22Graphs+CI%22)
