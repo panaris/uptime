@@ -18,10 +18,12 @@ status-website:
   name: Upptime
   introTitle: "Check the uptime of my projects."
   navbar:
-    - title: Status
-      href: /
+    - title: Instagram
+      href: https://www.instagram.com/panagiotischristoforakis/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/
+    - title: Email
+      href: mailto:panagiotischristoforakis@gmail.com
 i18n:
   footer: " "
 workflowSchedule:
