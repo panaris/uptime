@@ -19,13 +19,13 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Check the uptime of my projects."
-  
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-      
+i18n:
+  footer:
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
