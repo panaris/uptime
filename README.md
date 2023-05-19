@@ -1,4 +1,4 @@
-# [📈 Live Status](https://https://panaris.github.io/uptime/): <!--live status--> **🟩 All systems operational**
+# 📈 Live Status: <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Panagiotis Christoforakis](https://paniccsoftworks.com).
 
@@ -22,9 +22,3 @@ This repository contains the open-source uptime monitor and status page for [Pan
 <!--end: status pages-->
 
 [**Visit my status website →**](https://panaris.github.io/uptime/)
-
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Panagiotis Christoforakis](https://paniccsoftworks.com)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
