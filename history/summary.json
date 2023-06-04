@@ -4,9 +4,9 @@
     "url": "https://paniccsoftworks.com",
     "icon": "https://icons.duckduckgo.com/ip3/paniccsoftworks.com.ico",
     "slug": "panicc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 176,
     "timeMonth": 141,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-04": 0
+    }
   },
   {
     "name": "emergency",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tetteris.gr.ico",
     "slug": "tetteris",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "97.72%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
     "time": 1833,
     "timeDay": 1900,
     "timeWeek": 1952,
