@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1606,
-    "timeDay": 1681,
-    "timeWeek": 1711,
-    "timeMonth": 1646,
-    "timeYear": 1606,
+    "time": 1607,
+    "timeDay": 1690,
+    "timeWeek": 1724,
+    "timeMonth": 1647,
+    "timeYear": 1607,
     "dailyMinutesDown": {
       "2023-06-11": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tetteris.gr.ico",
     "slug": "tetteris",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
-    "time": 1802,
-    "timeDay": 1498,
-    "timeWeek": 1701,
-    "timeMonth": 1807,
-    "timeYear": 1802,
+    "uptimeYear": "98.84%",
+    "time": 1798,
+    "timeDay": 1577,
+    "timeWeek": 1738,
+    "timeMonth": 1808,
+    "timeYear": 1798,
     "dailyMinutesDown": {
       "2023-05-19": 110,
       "2023-05-18": 609
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 103,
-    "timeWeek": 126,
-    "timeMonth": 148,
+    "timeDay": 175,
+    "timeWeek": 129,
+    "timeMonth": 147,
     "timeYear": 152,
     "dailyMinutesDown": {}
   }
