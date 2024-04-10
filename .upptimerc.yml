@@ -9,6 +9,8 @@ sites:
   #   url: https://tetteris.gr
   # - name: taptap
   #   url: https://tap-tap.click
+  - name: google
+    url: https://google.gr
 
 status-website:
   baseUrl: /uptime
