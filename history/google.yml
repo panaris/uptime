@@ -1,7 +1,7 @@
 url: https://google.gr
-status: up
-code: 200
-responseTime: 566
-lastUpdated: 2025-09-02T05:57:54.236Z
+status: down
+code: 429
+responseTime: 893
+lastUpdated: 2025-09-02T11:09:21.649Z
 startTime: 2024-04-10T02:43:06.271Z
 generator: Upptime <https://github.com/upptime/upptime>
